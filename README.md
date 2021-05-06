@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hello There, Welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+  <h1>Hello There, Welcome to my GitHub Profile! <img src="https://prasad-medisetti.github.io/images/Hi.gif" width="30"></h1>
   <p align="center" style="disply:flex; justify-content: center; align-items: center; flex-direction:column; margin: 2rem !important; ">
     <a href="prasad-medisetti.github.io" style="display:block">
       <img align="center" alt="GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=prasad-medisetti&theme=dark&show_icons=true" />
