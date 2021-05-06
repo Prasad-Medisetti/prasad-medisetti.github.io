@@ -1,19 +1,18 @@
 <div align="center">
 
-  # Hello There, Welcome to my GitHub Profile! <img src="/images/Hi.gif" width="30">
-  <p align="center" style="disply:flex; justify-content: center; align-items: center; margin: 20px auto !important; ">
-    <a href="https://github.com/prasad-medisetti">
+  <h1>Hello There, Welcome to my GitHub Profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+  <p align="center" style="disply:flex; justify-content: center; align-items: center; flex-direction:column; margin: 2rem !important; ">
+    <a href="prasad-medisetti.github.io" style="display:block">
       <img align="center" alt="GitHub Status"  src="https://github-readme-stats.vercel.app/api?username=prasad-medisetti&theme=dark&show_icons=true" />
     </a>
-    <a href="https://github.com/prasad-medisetti">
+    <br />
+    <br />
+    <a href="https://github.com/prasad-medisetti" style="display:block">
       <img align="center" alt="GitHub Status | Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-medisetti&show_icons=true&theme=dark" />
     </a>
   </p>
- 
-</div>  
 
-
-  ## 📫 Reach me at : 
+  <h2  align="center">📫 Reach me at : </h2>
   
   <p align="center">
     <a href="https://prasad-medisetti.herokuapp.com/" target="blank">
@@ -45,9 +44,19 @@
     </a>
   </p>
 
+  <!--
+     [//]: # ([<img align="left" alt="Prasad Medisetti | Website" width="32" src="images/SVG/link.svg" />][website])
+      [<img align="left" alt="Prasad Medisetti | Twitter" width="32" src="images/SVG/twitter.svg" />][twitter]
+      [<img align="left" alt="Prasad Medisetti | LinkedIn" width="32" src="images/SVG/linkedin.svg" />][linkedin]
+      [<img align="left" alt="Prasad Medisetti | Instagram" width="32" src="images/SVG/instagram.svg" />][instagram]
+      [<img align="left" alt="Prasad Medisetti | GitHub" width="32" src="images/SVG/github.svg" />][github]
+      [<img align="left" alt="Prasad Medisetti | Facebook" width="32" src="images/SVG/facebook.svg" />][facebook]
+      [<img align="left" alt="Prasad Medisetti | WhatsApp" width="32" src="images/SVG/whatsapp.svg" />][whatsapp]
+  -->
+
   <br />
 
-  ### Languages:
+  <h2 align="center">Languages:</h2>
   <p align="center">
     <img align="center" alt="C" width="32" src="images/SVG/c.svg" />
     <img align="center" alt="C++" width="32" src="images/SVG/cplusplus.svg" />
@@ -65,7 +74,8 @@
     <img align="center" alt="NodeJS" width="32" src="images/SVG/node-dot-js.svg" />
   </p>
 
-  ### Tools:
+  <br />
+  <h3 align="center">Tools:</h3>
   
   <p align="center">
     <img align="center" alt="Visual Studio Code" width="32" src="images/SVG/visualstudiocode.svg" />
@@ -78,8 +88,22 @@
   <br />
   
   <p align="center">
-    <a href="https://github.com/prasad-medisetti/"><img src="https://komarev.com/ghpvc/?username=prasad-medisetti&label=PROFILE+VIEWS"/></a>
+  <a href="https://github.com/prasad-medisetti/"><img src="https://komarev.com/ghpvc/?username=prasad-medisetti&label=PROFILE+VIEWS"/></a>
+  <!--     <b>Profile Visitor Count</b>
+    <br />
+    <a href="https://github.com/prasad-medisetti/">
+      <img align="center" src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fprasad-medisetti">
+    </a> -->
   </p>
+
+  <!--
+  <p align="center"> 
+    <i><b>Profile Visitor Count</b></i><br>
+    <img align="center" src="https://profile-counter.glitch.me/prasad-medisetti/count.svg" />
+  </p>
+  -->
+ 
+</div>  
 
 [website]: https://prasad-medisetti.herokuapp.com/
 [twitter]: https://twitter.com/Prasad_M_961
