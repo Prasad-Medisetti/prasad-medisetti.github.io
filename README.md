@@ -15,7 +15,7 @@
   <h2  align="center">📫 Reach me at : </h2>
   
   <p align="center">
-    <a href="https://prasad-medisetti.herokuapp.com/" target="blank">
+    <a href="https://prasad-medisetti.github.io/" target="blank">
       <img align="center" alt="Prasad Medisetti | Website" width="32" src="images/SVG/link.svg" />
     </a>
     <a href="https://dev.to/prasad_medisetti">
